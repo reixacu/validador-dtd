@@ -8,7 +8,7 @@
     <alumne dni="">
       <nom></nom>
     </alumne>
-    <!-- FI PLANTILLA ALUMNE -->
+
   </alumnes>
   
   <!-- ***** ESPECIALITATS ***** -->
@@ -39,9 +39,42 @@
       <nom>Llenguatge de marques i sistemes gestors d'informació</nom>
       <professor IDProfessor="P1"/>
       <qualificacions>
+        <!-- PLANTILLA QUALIFICACIO ALUMNE -->
         <alumne dni="">
-          
+          <uf num="1"></uf>
+          <uf num="2"></uf>
+          <uf num="3"></uf>
+          <final></final>
         </alumne>
+        
+      </qualificacions>
+    </assignatura>
+    <assignatura>
+      <nom>Administració de Sistemes operatius</nom>
+      <professor IDProfessor="P2"/>
+      <qualificacions>
+        <!-- PLANTILLA QUALIFICACIO ALUMNE -->
+        <alumne dni="">
+          <uf num="1"></uf>
+          <uf num="2"></uf>
+          <final></final>
+        </alumne>
+        
+      </qualificacions>
+    </assignatura>
+    <assignatura>
+      <nom>Seguretat i alta disponibilitat</nom>
+      <professor IDProfessor="P3"/>
+      <qualificacions>
+        <!-- PLANTILLA QUALIFICACIO ALUMNE -->
+        <alumne dni="">
+          <uf num="1"></uf>
+          <uf num="2"></uf>
+          <uf num="3"></uf>
+          <uf num="5"></uf>
+          <final></final>
+        </alumne>
+        
       </qualificacions>
     </assignatura>
   </assignatures>
