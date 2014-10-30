@@ -1,109 +1,42 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE assignatures SYSTEM "alumnes.dtd">
-
-<assignatures>
-  <assignatura ID="Llenguatge de marques i sistemes gestors d'informació">
-    <alumne>
-      <dni>1111111A</dni>
-      <nom>Federicu Pi Puig</nom>
-    </alumne>
-    <alumne>
-      <dni>2222222A</dni>
-      <nom>Marianu Garcia Pollet</nom>
-    </alumne>
-  </assignatura>
-    <alumne>
-      <dni>3333333A</dni>
-      <nom>Santiago Gomez Pinyol</nom>
-    </alumne>
-    <alumne>
-      <dni>GK345678K-M</dni>
-      <nom>Manolito Firstwpatrick</nom>
-    </alumne>
-    <alumne>
-      <dni>5555555A</dni>
-      <nom>Filomeno Puig Borriol</nom>
-    </alumne>
-        <alumne>
-      <dni>6666666A</dni>
-      <nom>Marcial Garrepa Perez</nom>
-    </alumne>
-    <alumne>
-      <dni>7777777A</dni>
-      <nom>Eustaquio Pujol Martinez</nom>
-    </alumne>
-    <alumne>
-      <dni>8888888A</dni>
-      <nom>Anunciació Sinde Canon</nom>
-    </alumne>
-    <alumne>
-      <dni>9999999A</dni>
-      <nom>Gori Rabassa Puig</nom>
-    </alumne>
-    <alumne>
-      <dni>1111110A</dni>
-      <nom>Joanot Villa</nom>
-    </alumne>
-    <alumne>
-      <dni>1222221A</dni>
-      <nom>Hipolit González Fernández</nom>
-    </alumne>
-    <alumne>
-      <dni>US2345-AE</dni>
-      <nom>John Doo</nom>
-    </alumne>
-    <alumne>
-      <dni>1444443A</dni>
-      <nom>Maria de la Llum Pi Puig</nom>
-    </alumne>
-    <alumne>
-      <dni>1555554Z</dni>
-      <nom>Pere Tort Mbele</nom>
-    </alumne>
-    
-    
-  <assignatura ID="Administració de Sistemes Operatius">
-    <alumne>
-      <dni>1111111A</dni>
-      <nom>Federicu Pi Puig</nom>
-    </alumne>
-    <alumne>
-      <dni>2222222A</dni>
-      <nom>Marianu Garcia Pollet</nom>
-    </alumne>
-    <alumne>
-      <dni>3333333A</dni>
-      <nom>Santiago Gomez Pinyol</nom>
-    </alumne>
-        <alumne>
-      <dni>GK345678K-M</dni>
-      <nom>Manolito Firstwpatrick</nom>
-    </alumne>
-    <alumne>
-      <dni>5555555A</dni>
-      <nom>Filomeno Puig Borriol</nom>
-    </alumne>
-    <alumne>
-      <dni>7777777A</dni>
-      <nom>Eustaquio Pujol Martinez</nom>
-    </alumne>
-    <alumne>
-      <dni>8888888A</dni>
-      <nom>Anunciació Sinde Canon</nom>
-    </alumne>
-    <alumne>
-      <dni>9999999A</dni>
-      <nom>Gori Rabassa Puig</nom>
-    </alumne>
-</assignatures>
-
-
-
-
-
-
-
-
-
-
-
+﻿<alumne dni="_1111111A">
+  <nom>Federicu Pi Puig</nom>
+</alumne>
+<alumne dni="_2222222A">
+  <nom>Marianu Garcia Pollet</nom>
+</alumne>
+<alumne dni="_3333333A">
+  <nom>Santiago Gomez Pinyol</nom>
+</alumne>
+<alumne dni="_GK345678K-M">
+  <nom>Manolito Firstwpatrick</nom>
+</alumne>
+<alumne dni="_5555555A">
+  <nom>Filomeno Puig Borriol</nom>
+</alumne>
+<alumne dni="_6666666A">
+  <nom>Marcial Garrepa Perez</nom>
+</alumne>
+<alumne dni="_7777777A">
+  <nom>Eustaquio Pujol Martinez</nom>
+</alumne>
+<alumne dni="_8888888A">
+  <nom>Anunciació Sinde Canon</nom>
+</alumne>
+<alumne dni="_9999999A">
+  <nom>Gori Rabassa Puig</nom>
+</alumne>
+<alumne dni="_1111110A">
+  <nom>Joanot Villa</nom>
+</alumne>
+<alumne dni="_1222221A">
+  <nom>Hipolit González Fernández</nom>
+</alumne>
+<alumne dni="_US2345-AE">
+  <nom>John Doo</nom>
+</alumne>
+<alumne dni="_1444443A">
+  <nom>Maria de la Llum Pi Puig</nom>
+</alumne>
+<alumne dni="_1555554Z">
+  <nom>Pere Tort Mbele</nom>
+</alumne>
