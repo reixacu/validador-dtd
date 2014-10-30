@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE assignatures SYSTEM "alumnes.dtd">
 
-<assignatures >
+<assignatures>
   <assignatura ID="Llenguatge de marques i sistemes gestors d'informació">
     <alumne>
       <dni>1111111A</dni>
