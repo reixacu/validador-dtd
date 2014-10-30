@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ASIX SYSTEM "ASIX.dtd">
+<ASIX>
+
+  <!-- ***** ALUMNES ***** -->
+  <alumnes>
+    <!-- PLANTILLA ALUMNE -->
+    <alumne dni="">
+      <nom></nom>
+    </alumne>
+    <!-- FI PLANTILLA ALUMNE -->
+  </alumnes>
+  
+  <!-- ***** ESPECIALITATS ***** -->
+  <especialitats>
+    <especialitat IDEspecialtiat="507">Informàtica</especialitat>
+    <especialtiat IDEspecialitat="627">Sistemes i aplicacions informàtiques</especialtiat>
+  </especialitats>
+  
+  <!-- ***** PROFESSORS ***** -->
+  <professors>
+    <professor IDProfessor="P1">
+      <nom>Lleonard Carbassa Pons</nom>
+      <especialitat IDEspecialitat="507"/>
+    </professor>
+    <professor IDProfessor="P2">
+      <nom>Don Rigoberto Fernández Lopez</nom>
+      <especialitat IDEspecialtiat="627"/>
+    </professor>
+    <professor IDProfessor="P3">
+      <nom>Facundo Barberà i Galé</nom>
+      <especialitat IDEspecialtiat="507"/>
+    </professor>
+  </professors>
+  
+  <!-- ***** ASSIGNATURES I QUALIFICACIONS -->
+  <assignatures>
+    <assignatura>
+      <nom>Llenguatge de marques i sistemes gestors d'informació</nom>
+      <professor IDProfessor="P1"/>
+      <qualificacions>
+        <alumne dni="">
+          
+        </alumne>
+      </qualificacions>
+    </assignatura>
+  </assignatures>
+</ASIX>
