@@ -62,8 +62,40 @@
     </alumne>
     
     
+  <assignatura ID="Administració de Sistemes Operatius">
+    <alumne>
+      <dni>1111111A</dni>
+      <nom>Federicu Pi Puig</nom>
+    </alumne>
+    <alumne>
+      <dni>2222222A</dni>
+      <nom>Marianu Garcia Pollet</nom>
+    </alumne>
+    <alumne>
+      <dni>3333333A</dni>
+      <nom>Santiago Gomez Pinyol</nom>
+    </alumne>
+        <alumne>
+      <dni>GK345678K-M</dni>
+      <nom>Manolito Firstwpatrick</nom>
+    </alumne>
+    <alumne>
+      <dni>5555555A</dni>
+      <nom>Filomeno Puig Borriol</nom>
+    </alumne>
+    <alumne>
+      <dni>7777777A</dni>
+      <nom>Eustaquio Pujol Martinez</nom>
+    </alumne>
+    <alumne>
+      <dni>8888888A</dni>
+      <nom>Anunciació Sinde Canon</nom>
+    </alumne>
+    <alumne>
+      <dni>9999999A</dni>
+      <nom>Gori Rabassa Puig</nom>
+    </alumne>
 </assignatures>
-
 
 
 
