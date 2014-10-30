@@ -72,11 +72,11 @@
   
   <!-- ***** ASSIGNATURES I QUALIFICACIONS ***** -->
   <assignatures>
+    <!-- ASSIGNATURA 1 -->
     <assignatura>
       <nom>Llenguatge de marques i sistemes gestors d'informació</nom>
       <professor IDProfessor="P1"/>
       <qualificacions>
-        <!-- PLANTILLA QUALIFICACIO ALUMNE -->
         <alumne dni="_1111111A">
           <uf num="1">2</uf>
           <uf num="2">7</uf>
@@ -163,6 +163,8 @@
         </alumne>
       </qualificacions>
     </assignatura>
+    
+    <!-- ASSIGNATURA 2 -->
     <assignatura>
       <nom>Administració de Sistemes operatius</nom>
       <professor IDProfessor="P2"/>
@@ -234,19 +236,82 @@
         </alumne>
       </qualificacions>
     </assignatura>
+    
+    <!-- ASSIGNATURA 3 -->
     <assignatura>
       <nom>Seguretat i alta disponibilitat</nom>
       <professor IDProfessor="P3"/>
       <qualificacions>
-        <!-- PLANTILLA QUALIFICACIO ALUMNE -->
-        <alumne dni="">
-          <uf num="1"></uf>
-          <uf num="2"></uf>
-          <uf num="3"></uf>
-          <uf num="5"></uf>
-          <final></final>
+        <alumne dni="_1111111A">
+          <uf num="1">8</uf>
+          <uf num="2">8</uf>
+          <uf num="3">4</uf>
+          <uf num="4">2</uf>
+          <final>5,5</final>
         </alumne>
-        
+        <alumne dni="_2222222A">
+          <uf num="1">4</uf>
+          <uf num="2">4</uf>
+          <uf num="3">5</uf>
+          <uf num="4">5</uf>
+          <final>5,0</final>
+        </alumne>
+        <alumne dni="_3333333A">
+          <uf num="1">8</uf>
+          <uf num="2">10</uf>
+          <uf num="3">2</uf>
+          <uf num="4">6</uf>
+          <final>6,5</final>
+        </alumne>
+        <alumne dni="_GK345678K-M">
+          <uf num="1">7</uf>
+          <uf num="2">0</uf>
+          <uf num="3">7</uf>
+          <uf num="4">5</uf>
+          <final>4,8</final>
+        </alumne>
+        <alumne dni="_5555555A">
+          <uf num="1">5</uf>
+          <uf num="2">6</uf>
+          <uf num="3">6</uf>
+          <uf num="4">6</uf>
+          <final>5,8</final>
+        </alumne>
+        <alumne dni="_9999999A">
+          <uf num="1">5</uf>
+          <uf num="2">7</uf>
+          <uf num="3">9</uf>
+          <uf num="4">9</uf>
+          <final>7,5</final>
+        </alumne>
+        <alumne dni="_1111110A">
+          <uf num="1">1</uf>
+          <uf num="2">4</uf>
+          <uf num="3">6</uf>
+          <uf num="4">9</uf>
+          <final>5,0</final>
+        </alumne>
+        <alumne dni="_1222221A">
+          <uf num="1">4</uf>
+          <uf num="2">9</uf>
+          <uf num="3">5</uf>
+          <uf num="4">1</uf>
+          <final>4,8</final>
+        </alumne>
+        <alumne dni="_1444443A">
+          <uf num="1">8</uf>
+          <uf num="2">2</uf>
+          <uf num="3">0</uf>
+          <uf num="4">9</uf>
+          <final>4,8</final>
+        </alumne>
+        <alumne dni="_1555554Z">
+          <uf num="1">7</uf>
+          <uf num="2">2</uf>
+          <uf num="3">9</uf>
+          <uf num="4">3</uf>
+          <final>5,3</final>
+        </alumne>
       </qualificacions>
     </assignatura>
   </assignatures>
