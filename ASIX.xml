@@ -70,7 +70,7 @@
     </professor>
   </professors>
   
-  <!-- ***** ASSIGNATURES I QUALIFICACIONS -->
+  <!-- ***** ASSIGNATURES I QUALIFICACIONS ***** -->
   <assignatures>
     <assignatura>
       <nom>Llenguatge de marques i sistemes gestors d'informació</nom>
