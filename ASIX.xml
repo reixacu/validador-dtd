@@ -77,13 +77,90 @@
       <professor IDProfessor="P1"/>
       <qualificacions>
         <!-- PLANTILLA QUALIFICACIO ALUMNE -->
-        <alumne dni="">
-          <uf num="1"></uf>
-          <uf num="2"></uf>
-          <uf num="3"></uf>
-          <final></final>
+        <alumne dni="_1111111A">
+          <uf num="1">2</uf>
+          <uf num="2">7</uf>
+          <uf num="3">7</uf>
+          <final>5,3</final>
         </alumne>
-        
+        <alumne dni="_2222222A">
+          <uf num="1">0</uf>
+          <uf num="2">1</uf>
+          <uf num="3">3</uf>
+          <final>1,3</final>
+        </alumne>
+        <alumne dni="_3333333A">
+          <uf num="1">5</uf>
+          <uf num="2">9</uf>
+          <uf num="3">1</uf>
+          <final>5,0</final>
+        </alumne>
+        <alumne dni="_GK345678K-M">
+          <uf num="1">1</uf>
+          <uf num="2">3</uf>
+          <uf num="3">7</uf>
+          <final>3,7</final>
+        </alumne>
+        <alumne dni="_5555555A">
+          <uf num="1">8</uf>
+          <uf num="2">0</uf>
+          <uf num="3">6</uf>
+          <final>4,7</final>
+        </alumne>
+        <alumne dni="_6666666A">
+          <uf num="1">7</uf>
+          <uf num="2">9</uf>
+          <uf num="3">3</uf>
+          <final>6,3</final>
+        </alumne>
+        <alumne dni="_7777777A">
+          <uf num="1">5</uf>
+          <uf num="2">5</uf>
+          <uf num="3">5</uf>
+          <final>5,0</final>
+        </alumne>
+        <alumne dni="_8888888A">
+          <uf num="1">0</uf>
+          <uf num="2">8</uf>
+          <uf num="3">7</uf>
+          <final>5,0</final>
+        </alumne>
+        <alumne dni="_9999999A">
+          <uf num="1">1</uf>
+          <uf num="2">3</uf>
+          <uf num="3">8</uf>
+          <final>4,0</final>
+        </alumne>
+        <alumne dni="_1111110A">
+          <uf num="1">7</uf>
+          <uf num="2">10</uf>
+          <uf num="3">8</uf>
+          <final>8,3</final>
+        </alumne>
+        <alumne dni="_1222221A">
+          <uf num="1">7</uf>
+          <uf num="2">2</uf>
+          <uf num="3">5</uf>
+          <final>4,7</final>
+        </alumne>
+        <alumne dni="_US2345-AE">
+          <uf num="1">4</uf>
+          <uf num="2">2</uf>
+          <uf num="3">6</uf>
+          <final>4,0</final>
+        </alumne>
+        <alumne dni="_1444443A">
+          <uf num="1">7</uf>
+          <uf num="2">7</uf>
+          <uf num="3">5</uf>
+          <final>6,3</final>
+        </alumne>
+        <alumne dni="_1555554Z">
+          <uf num="1">9</uf>
+          <uf num="2">8</uf>
+          <uf num="3">8</uf>
+          <final>8,3</final>
+        </alumne>
       </qualificacions>
     </assignatura>
     <assignatura>
