@@ -50,23 +50,23 @@
   
   <!-- ***** ESPECIALITATS ***** -->
   <especialitats>
-    <especialitat IDEspecialtiat="507">Informàtica</especialitat>
-    <especialtiat IDEspecialitat="627">Sistemes i aplicacions informàtiques</especialtiat>
+    <especialitat IDEspecialitat="_507">Informàtica</especialitat>
+    <especialitat IDEspecialitat="_627">Sistemes i aplicacions informàtiques</especialitat>
   </especialitats>
   
   <!-- ***** PROFESSORS ***** -->
   <professors>
     <professor IDProfessor="P1">
-      <nom>Lleonard Carbassa Pons</nom>
-      <especialitat IDEspecialitat="507"/>
+      <nomp>Lleonard Carbassa Pons</nomp>
+      <especialitatp IDEspecialitat="_507"/>
     </professor>
     <professor IDProfessor="P2">
-      <nom>Don Rigoberto Fernández Lopez</nom>
-      <especialitat IDEspecialtiat="627"/>
+      <nomp>Don Rigoberto Fernández Lopez</nomp>
+      <especialitatp IDEspecialitat="_627"/>
     </professor>
     <professor IDProfessor="P3">
-      <nom>Facundo Barberà i Galé</nom>
-      <especialitat IDEspecialtiat="507"/>
+      <nomp>Facundo Barberà i Galé</nomp>
+      <especialitatp IDEspecialitat="_507"/>
     </professor>
   </professors>
   
@@ -74,244 +74,244 @@
   <assignatures>
     <!-- ASSIGNATURA 1 -->
     <assignatura>
-      <nom>Llenguatge de marques i sistemes gestors d'informació</nom>
-      <professor IDProfessor="P1"/>
+      <noma>Llenguatge de marques i sistemes gestors d'informació</noma>
+      <professorassig IDProfessor="P1"/>
       <qualificacions>
-        <alumne dni="_1111111A">
+        <alumneassig dni="_1111111A">
           <uf num="1">2</uf>
           <uf num="2">7</uf>
           <uf num="3">7</uf>
           <final>5,3</final>
-        </alumne>
-        <alumne dni="_2222222A">
+        </alumneassig>
+        <alumneassig dni="_2222222A">
           <uf num="1">0</uf>
           <uf num="2">1</uf>
           <uf num="3">3</uf>
           <final>1,3</final>
-        </alumne>
-        <alumne dni="_3333333A">
+        </alumneassig>
+        <alumneassig dni="_3333333A">
           <uf num="1">5</uf>
           <uf num="2">9</uf>
           <uf num="3">1</uf>
           <final>5,0</final>
-        </alumne>
-        <alumne dni="_GK345678K-M">
+        </alumneassig>
+        <alumneassig dni="_GK345678K-M">
           <uf num="1">1</uf>
           <uf num="2">3</uf>
           <uf num="3">7</uf>
           <final>3,7</final>
-        </alumne>
-        <alumne dni="_5555555A">
+        </alumneassig>
+        <alumneassig dni="_5555555A">
           <uf num="1">8</uf>
           <uf num="2">0</uf>
           <uf num="3">6</uf>
           <final>4,7</final>
-        </alumne>
-        <alumne dni="_6666666A">
+        </alumneassig>
+        <alumneassig dni="_6666666A">
           <uf num="1">7</uf>
           <uf num="2">9</uf>
           <uf num="3">3</uf>
           <final>6,3</final>
-        </alumne>
-        <alumne dni="_7777777A">
+        </alumneassig>
+        <alumneassig dni="_7777777A">
           <uf num="1">5</uf>
           <uf num="2">5</uf>
           <uf num="3">5</uf>
           <final>5,0</final>
-        </alumne>
-        <alumne dni="_8888888A">
+        </alumneassig>
+        <alumneassig dni="_8888888A">
           <uf num="1">0</uf>
           <uf num="2">8</uf>
           <uf num="3">7</uf>
           <final>5,0</final>
-        </alumne>
-        <alumne dni="_9999999A">
+        </alumneassig>
+        <alumneassig dni="_9999999A">
           <uf num="1">1</uf>
           <uf num="2">3</uf>
           <uf num="3">8</uf>
           <final>4,0</final>
-        </alumne>
-        <alumne dni="_1111110A">
+        </alumneassig>
+        <alumneassig dni="_1111110A">
           <uf num="1">7</uf>
           <uf num="2">10</uf>
           <uf num="3">8</uf>
           <final>8,3</final>
-        </alumne>
-        <alumne dni="_1222221A">
+        </alumneassig>
+        <alumneassig dni="_1222221A">
           <uf num="1">7</uf>
           <uf num="2">2</uf>
           <uf num="3">5</uf>
           <final>4,7</final>
-        </alumne>
-        <alumne dni="_US2345-AE">
+        </alumneassig>
+        <alumneassig dni="_US2345-AE">
           <uf num="1">4</uf>
           <uf num="2">2</uf>
           <uf num="3">6</uf>
           <final>4,0</final>
-        </alumne>
-        <alumne dni="_1444443A">
+        </alumneassig>
+        <alumneassig dni="_1444443A">
           <uf num="1">7</uf>
           <uf num="2">7</uf>
           <uf num="3">5</uf>
           <final>6,3</final>
-        </alumne>
-        <alumne dni="_1555554Z">
+        </alumneassig>
+        <alumneassig dni="_1555554Z">
           <uf num="1">9</uf>
           <uf num="2">8</uf>
           <uf num="3">8</uf>
           <final>8,3</final>
-        </alumne>
+        </alumneassig>
       </qualificacions>
     </assignatura>
     
     <!-- ASSIGNATURA 2 -->
     <assignatura>
-      <nom>Administració de Sistemes operatius</nom>
-      <professor IDProfessor="P2"/>
+      <noma>Administració de Sistemes operatius</noma>
+      <professorassig IDProfessor="P2"/>
       <qualificacions>
-        <alumne dni="_1111111A">
+        <alumneassig dni="_1111111A">
           <uf num="1">0</uf>
           <uf num="2">3</uf>
           <final>1,5</final>
-        </alumne>
-        <alumne dni="_2222222A">
+        </alumneassig>
+        <alumneassig dni="_2222222A">
           <uf num="1">8</uf>
           <uf num="2">9</uf>
           <final>8,5</final>
-        </alumne>
-        <alumne dni="_3333333A">
+        </alumneassig>
+        <alumneassig dni="_3333333A">
           <uf num="1">9</uf>
           <uf num="2">6</uf>
           <final>7,5</final>
-        </alumne>
-        <alumne dni="_GK345678K-M">
+        </alumneassig>
+        <alumneassig dni="_GK345678K-M">
           <uf num="1">4</uf>
           <uf num="2">7</uf>
           <final>5,5</final>
-        </alumne>
-        <alumne dni="_5555555A">
+        </alumneassig>
+        <alumneassig dni="_5555555A">
           <uf num="1">0</uf>
           <uf num="2">5</uf>
           <final>2,5</final>
-        </alumne>
-        <alumne dni="_7777777A">
+        </alumneassig>
+        <alumneassig dni="_7777777A">
           <uf num="1">6</uf>
           <uf num="2">3</uf>
           <final>4,5</final>
-        </alumne>
-        <alumne dni="_8888888A">
+        </alumneassig>
+        <alumneassig dni="_8888888A">
           <uf num="1">2</uf>
           <uf num="2">9</uf>
           <final>5,5</final>
-        </alumne>
-        <alumne dni="_9999999A">
+        </alumneassig>
+        <alumneassig dni="_9999999A">
           <uf num="1">5</uf>
           <uf num="2">4</uf>
           <final>4,5</final>
-        </alumne>
-        <alumne dni="_1111110A">
+        </alumneassig>
+        <alumneassig dni="_1111110A">
           <uf num="1">5</uf>
           <uf num="2">1</uf>
           <final>3,0</final>
-        </alumne>
-        <alumne dni="_1222221A">
+        </alumneassig>
+        <alumneassig dni="_1222221A">
           <uf num="1">0</uf>
           <uf num="2">6</uf>
           <final>3,0</final>
-        </alumne>
-        <alumne dni="_US2345-AE">
+        </alumneassig>
+        <alumneassig dni="_US2345-AE">
           <uf num="1">5</uf>
           <uf num="2">7</uf>
           <final>6,0</final>
-        </alumne>
-        <alumne dni="_1444443A">
+        </alumneassig>
+        <alumneassig dni="_1444443A">
           <uf num="1">7</uf>
           <uf num="2">2</uf>
           <final>4,5</final>
-        </alumne>
-        <alumne dni="_1555554Z">
+        </alumneassig>
+        <alumneassig dni="_1555554Z">
           <uf num="1">2</uf>
           <uf num="2">5</uf>
           <final>3,5</final>
-        </alumne>
+        </alumneassig>
       </qualificacions>
     </assignatura>
     
     <!-- ASSIGNATURA 3 -->
     <assignatura>
-      <nom>Seguretat i alta disponibilitat</nom>
-      <professor IDProfessor="P3"/>
+      <noma>Seguretat i alta disponibilitat</noma>
+      <professorassig IDProfessor="P3"/>
       <qualificacions>
-        <alumne dni="_1111111A">
+        <alumneassig dni="_1111111A">
           <uf num="1">8</uf>
           <uf num="2">8</uf>
           <uf num="3">4</uf>
           <uf num="4">2</uf>
           <final>5,5</final>
-        </alumne>
-        <alumne dni="_2222222A">
+        </alumneassig>
+        <alumneassig dni="_2222222A">
           <uf num="1">4</uf>
           <uf num="2">4</uf>
           <uf num="3">5</uf>
           <uf num="4">5</uf>
           <final>5,0</final>
-        </alumne>
-        <alumne dni="_3333333A">
+        </alumneassig>
+        <alumneassig dni="_3333333A">
           <uf num="1">8</uf>
           <uf num="2">10</uf>
           <uf num="3">2</uf>
           <uf num="4">6</uf>
           <final>6,5</final>
-        </alumne>
-        <alumne dni="_GK345678K-M">
+        </alumneassig>
+        <alumneassig dni="_GK345678K-M">
           <uf num="1">7</uf>
           <uf num="2">0</uf>
           <uf num="3">7</uf>
           <uf num="4">5</uf>
           <final>4,8</final>
-        </alumne>
-        <alumne dni="_5555555A">
+        </alumneassig>
+        <alumneassig dni="_5555555A">
           <uf num="1">5</uf>
           <uf num="2">6</uf>
           <uf num="3">6</uf>
           <uf num="4">6</uf>
           <final>5,8</final>
-        </alumne>
-        <alumne dni="_9999999A">
+        </alumneassig>
+        <alumneassig dni="_9999999A">
           <uf num="1">5</uf>
           <uf num="2">7</uf>
           <uf num="3">9</uf>
           <uf num="4">9</uf>
           <final>7,5</final>
-        </alumne>
-        <alumne dni="_1111110A">
+        </alumneassig>
+        <alumneassig dni="_1111110A">
           <uf num="1">1</uf>
           <uf num="2">4</uf>
           <uf num="3">6</uf>
           <uf num="4">9</uf>
           <final>5,0</final>
-        </alumne>
-        <alumne dni="_1222221A">
+        </alumneassig>
+        <alumneassig dni="_1222221A">
           <uf num="1">4</uf>
           <uf num="2">9</uf>
           <uf num="3">5</uf>
           <uf num="4">1</uf>
           <final>4,8</final>
-        </alumne>
-        <alumne dni="_1444443A">
+        </alumneassig>
+        <alumneassig dni="_1444443A">
           <uf num="1">8</uf>
           <uf num="2">2</uf>
           <uf num="3">0</uf>
           <uf num="4">9</uf>
           <final>4,8</final>
-        </alumne>
-        <alumne dni="_1555554Z">
+        </alumneassig>
+        <alumneassig dni="_1555554Z">
           <uf num="1">7</uf>
           <uf num="2">2</uf>
           <uf num="3">9</uf>
           <uf num="4">3</uf>
           <final>5,3</final>
-        </alumne>
+        </alumneassig>
       </qualificacions>
     </assignatura>
   </assignatures>

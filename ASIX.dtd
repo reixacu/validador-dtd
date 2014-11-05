@@ -1,25 +1,37 @@
 <!ELEMENT ASIX (alumnes, especialitats, professors, assignatures)>
 <!ELEMENT alumnes (alumne+)>
-<!ELEMENT alumne (nom, uf+, final)>
-<!ATTLIST alumne
-      	dni CDATA #REQUIRED>
+<!ELEMENT alumne (nom+)>
 <!ELEMENT nom (#PCDATA)>
-<!ELEMENT especialitats (especialitat, especialtiat)>
+<!ELEMENT especialitats (especialitat+)>
 <!ELEMENT especialitat (#PCDATA)>
-<!ATTLIST especialitat
-      	IDEspecialitat CDATA #IMPLIED
-      	IDEspecialtiat CDATA #IMPLIED>
-<!ELEMENT especialtiat (#PCDATA)>
-<!ATTLIST especialtiat
-      	IDEspecialitat CDATA #REQUIRED>
 <!ELEMENT professors (professor+)>
-<!ELEMENT professor (nom?, especialitat?)>
-<!ATTLIST professor
-      	IDProfessor CDATA #REQUIRED>
+<!ELEMENT professor (nomp, especialitatp)>
+<!ELEMENT nomp (#PCDATA)>
+<!ELEMENT especialitatp EMPTY>
 <!ELEMENT assignatures (assignatura+)>
-<!ELEMENT assignatura (nom, professor, qualificacions)>
+<!ELEMENT assignatura (noma , professorassig, qualificacions, alumneassig)>
+<!ELEMENT noma (#PCDATA)>
+<!ELEMENT professorassig (#PCDATA)>
 <!ELEMENT qualificacions (alumne+)>
+<!ELEMENT alumneassig (uf+,final)>
 <!ELEMENT uf (#PCDATA)>
-<!ATTLIST uf
-      	num CDATA #REQUIRED>
 <!ELEMENT final (#PCDATA)>
+<!ATTLIST alumne
+	dni ID #REQUIRED>
+	
+<!ATTLIST especialitat
+IDEspecialitat ID #REQUIRED>
+<!ATTLIST professor 
+IDProfessor ID #REQUIRED>
+
+<!ATTLIST uf
+	num CDATA #REQUIRED>
+	
+	<!ATTLIST alumneassig
+dni IDREF #REQUIRED>
+
+<!ATTLIST professorassig
+IDProfessor IDREF #REQUIRED>
+
+<!ATTLIST especialitatp
+IDEspecialitat IDREF #REQUIRED>
