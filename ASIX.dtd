@@ -1,0 +1,25 @@
+<!ELEMENT ASIX (alumnes, especialitats, professors, assignatures)>
+<!ELEMENT alumnes (alumne+)>
+<!ELEMENT alumne (nom, uf+, final)>
+<!ATTLIST alumne
+      	dni CDATA #REQUIRED>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT especialitats (especialitat, especialtiat)>
+<!ELEMENT especialitat (#PCDATA)>
+<!ATTLIST especialitat
+      	IDEspecialitat CDATA #IMPLIED
+      	IDEspecialtiat CDATA #IMPLIED>
+<!ELEMENT especialtiat (#PCDATA)>
+<!ATTLIST especialtiat
+      	IDEspecialitat CDATA #REQUIRED>
+<!ELEMENT professors (professor+)>
+<!ELEMENT professor (nom?, especialitat?)>
+<!ATTLIST professor
+      	IDProfessor CDATA #REQUIRED>
+<!ELEMENT assignatures (assignatura+)>
+<!ELEMENT assignatura (nom, professor, qualificacions)>
+<!ELEMENT qualificacions (alumne+)>
+<!ELEMENT uf (#PCDATA)>
+<!ATTLIST uf
+      	num CDATA #REQUIRED>
+<!ELEMENT final (#PCDATA)>
