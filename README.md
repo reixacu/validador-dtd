@@ -1,3 +1,3 @@
 validador-dtd
 =============
-hola caracola
+Exercici interessant
