@@ -9,10 +9,10 @@
 <!ELEMENT nomp (#PCDATA)>
 <!ELEMENT especialitatp EMPTY>
 <!ELEMENT assignatures (assignatura+)>
-<!ELEMENT assignatura (noma , professorassig, qualificacions, alumneassig)>
+<!ELEMENT assignatura (noma , professorassig, qualificacions)>
 <!ELEMENT noma (#PCDATA)>
 <!ELEMENT professorassig (#PCDATA)>
-<!ELEMENT qualificacions (alumne+)>
+<!ELEMENT qualificacions (alumneassig+)>
 <!ELEMENT alumneassig (uf+,final)>
 <!ELEMENT uf (#PCDATA)>
 <!ELEMENT final (#PCDATA)>
